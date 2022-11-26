@@ -1,5 +1,5 @@
 # data_science_project_2022
-This is a project for course named as " Introduction to Data Science" from University of Tartu, Estonia. This project is adapted from Kaggle cometition: https://www.kaggle.com/competitions/copy-of-drinking-water-quality/data . The details of competition is as follows:
+This is a project for course named as " Introduction to Data Science" from University of Tartu, Estonia. This project is adapted from Kaggle competition: https://www.kaggle.com/competitions/copy-of-drinking-water-quality/data . The details of competition is as follows:
 
 ## Background
 Despite the fact that most of our planet is covered with water, not more than 3 % of this amount is fresh. To make sure that the water is safe to drink the Estonian Health Board has been measuring its quality in more than thousand water stations across the country thereby making sure that every citizen will get the freshest water right from their tap.
